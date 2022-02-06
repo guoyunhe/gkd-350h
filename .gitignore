@@ -1,3 +1,7 @@
+# Sources
+gkdmini_buildroot
+love-*
+
 # Prerequisites
 *.d
 
